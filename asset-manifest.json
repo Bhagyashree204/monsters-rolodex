@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https//Bhagyashree204.github.io/monsters-rolodex/static/css/main.1eb8e2b5.chunk.css",
+    "main.js": "https//Bhagyashree204.github.io/monsters-rolodex/static/js/main.47833c3c.chunk.js",
+    "main.js.map": "https//Bhagyashree204.github.io/monsters-rolodex/static/js/main.47833c3c.chunk.js.map",
+    "runtime-main.js": "https//Bhagyashree204.github.io/monsters-rolodex/static/js/runtime-main.4f468d3a.js",
+    "runtime-main.js.map": "https//Bhagyashree204.github.io/monsters-rolodex/static/js/runtime-main.4f468d3a.js.map",
+    "static/js/2.85a72e3e.chunk.js": "https//Bhagyashree204.github.io/monsters-rolodex/static/js/2.85a72e3e.chunk.js",
+    "static/js/2.85a72e3e.chunk.js.map": "https//Bhagyashree204.github.io/monsters-rolodex/static/js/2.85a72e3e.chunk.js.map",
+    "index.html": "https//Bhagyashree204.github.io/monsters-rolodex/index.html",
+    "precache-manifest.f094cb390aca3e3e30286873ed1a3533.js": "https//Bhagyashree204.github.io/monsters-rolodex/precache-manifest.f094cb390aca3e3e30286873ed1a3533.js",
+    "service-worker.js": "https//Bhagyashree204.github.io/monsters-rolodex/service-worker.js",
+    "static/css/main.1eb8e2b5.chunk.css.map": "https//Bhagyashree204.github.io/monsters-rolodex/static/css/main.1eb8e2b5.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f468d3a.js",
+    "static/js/2.85a72e3e.chunk.js",
+    "static/css/main.1eb8e2b5.chunk.css",
+    "static/js/main.47833c3c.chunk.js"
+  ]
+}
